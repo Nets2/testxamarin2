@@ -12,8 +12,6 @@ D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\V
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
-D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
-D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
 D:\coursM2\conduiteProjet\testxamarin2\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
