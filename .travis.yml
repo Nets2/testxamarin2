@@ -1,0 +1,4 @@
+langage: csharp
+solution: App1/App1.sln
+install:
+  - git clone https://github.com/Nets2/testxamarin2.git
