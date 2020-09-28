@@ -1,4 +1,5 @@
 # Xamarin.Android
+
 # Build a Xamarin.Android project.
 # Add steps that test, sign, and distribute an app, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/xamarin
@@ -19,7 +20,10 @@ steps:
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '**/*.sln'
-
+- task: NuGetCommand@2
+  inputs:
+    command: 'custom'
+    arguments: 'install-package xunit.runner.visualstudio'
 - task: XamarinAndroid@1
   inputs:
     projectFile: '**/*droid*.csproj'
