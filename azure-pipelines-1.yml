@@ -23,7 +23,7 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: 'custom'
-    arguments: 'install-package xunit.runner.visualstudio'
+    arguments: 'install xunit.runner.visualstudio'
 - task: XamarinAndroid@1
   inputs:
     projectFile: '**/*droid*.csproj'
