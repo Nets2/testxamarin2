@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\coursM2\\conduiteProjet\\testxamarin2\\App1\\UnitTestApp1\\UnitTestApp1.csproj": {}
+  },
+  "projects": {
+    "D:\\coursM2\\conduiteProjet\\testxamarin2\\App1\\UnitTestApp1\\UnitTestApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\coursM2\\conduiteProjet\\testxamarin2\\App1\\UnitTestApp1\\UnitTestApp1.csproj",
+        "projectName": "UnitTestApp1",
+        "projectPath": "D:\\coursM2\\conduiteProjet\\testxamarin2\\App1\\UnitTestApp1\\UnitTestApp1.csproj",
+        "packagesPath": "C:\\Users\\geobi\\.nuget\\packages\\",
+        "outputPath": "D:\\coursM2\\conduiteProjet\\testxamarin2\\App1\\UnitTestApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.devices": {
+              "target": "Package",
+              "version": "[2.5.25, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
