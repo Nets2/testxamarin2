@@ -39,6 +39,10 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"

@@ -43,6 +43,10 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
             "System.Numerics.Vectors": {
               "target": "Package",
               "version": "[4.5.0, )"
@@ -98,6 +102,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

@@ -13,7 +13,8 @@
           "System.Numerics.Vectors": "4.5.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.6.0.1141",
-          "xunit": "2.4.1"
+          "xunit": "2.4.1",
+          "xunit.runner.console": "2.4.1"
         },
         "runtime": {
           "App1.dll": {}
@@ -116,7 +117,8 @@
             "fileVersion": "2.4.1.0"
           }
         }
-      }
+      },
+      "xunit.runner.console/2.4.1": {}
     }
   },
   "libraries": {
@@ -208,6 +210,13 @@
       "sha512": "sha512-7e/1jqBpcb7frLkB6XDrHCGXAbKN4Rtdb88epYxCSRQuZDRW8UtTfdTEVpdTl8s4T56e07hOBVd4G0OdCxIY2A==",
       "path": "xunit.extensibility.execution/2.4.1",
       "hashPath": "xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    },
+    "xunit.runner.console/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6yGe+Vx250m1zG/nV8FH1XlftJFoidCThpRdWEIwIFE/rc/lYSuL0M+D1gMDNmZgERAR/sHR18Q/etqd6lxaNA==",
+      "path": "xunit.runner.console/2.4.1",
+      "hashPath": "xunit.runner.console.2.4.1.nupkg.sha512"
     }
   }
 }
